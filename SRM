@@ -19,7 +19,7 @@
     <h2>🤖 เว็บ AI ตอบคำถาม</h2>
 
     <div class="config">
-        <label>ใส่ Gemini API Key ของคุณ:</label><br>
+        <label>AQ.Ab8RN6KAJ3qY4KuYGdm_FWHQVnVXwAa5ypakX2BGmT4a7Qe07g ของคุณ:</label><br>
         <input type="password" id="apiKey" placeholder="AIzaSy..." style="width: 100%; margin-top: 5px;">
     </div>
 
